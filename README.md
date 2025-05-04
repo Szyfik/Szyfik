@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Szyfik
 - 👀 I’m interested in basketball and chess
-- 🌱 I’m currently learning c++
-- 📫 How to reach me email
+- 🌱 I’m currently learning html, css and javascript
+- 📫 How to reach me: email
 
 <!---
 Szyfik/Szyfik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
